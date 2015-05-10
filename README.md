@@ -3,13 +3,13 @@
 
 # Multimedia Journalism - Web Design Workshop
 
-This workshop will introduce the professional practice, language, and methodology of design for the web. The goal of the workshop to provide a solid basis for a journalist working with a web design team.
+This workshop will introduce the professional practice, language, and methodology of design for the web. The goal of the workshop is to provide a solid basis for a journalist working with a web design team.
 
-In the course of this workshop, we will be introducing and discussing both the technical structures of web design as well as the independent disciplines within the field. You will produce a project that combines your journalistic process with one of the disciplines of web design, which will be presented and discussed on the last day of the workshop.
+Over the course of this workshop, we will be introducing and discussing both the technical structures of web design as well as the independent disciplines within the field. You will produce a project that combines your journalistic process with one of the disciplines of web design, which will be presented and discussed on the last day of the workshop.
 
 ## Office Hours
 
-Regular office hours are schedules for Tuesdays and Thursday while the workshop in in session. Cafe hours can be scheduled on an individual bases as needed.
+Regular office hours are scheduled for Tuesdays and Thursdays while the workshop is in session. Cafe hours can be scheduled on an individual bases as needed.
 
 ```
 Web Design Workshop Office Hours
